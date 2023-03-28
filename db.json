@@ -13,11 +13,11 @@
       "postId": 1
     }
   ],
-  "fruits":[
+  "fruits": [
     {
       "id": 1,
       "name": "Mango",
-      "quantity":10,
+      "quantity": 10,
       "price": 350
     }
   ],
@@ -25,4 +25,3 @@
     "name": "typicode"
   }
 }
-
